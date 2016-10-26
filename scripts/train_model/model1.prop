@@ -1,6 +1,6 @@
 trainFileList = ../../datasets/processed/data_train1.bio
 type = crf
-serializeTo = eunews_german.crf.gz
+serializeTo = model1.crf.gz
 map = word=0,answer=2
 useClassFeature=true
 useWord=true

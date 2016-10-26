@@ -1,7 +1,7 @@
-trainFileList = ../../datasets/processed/data_train3.bio
+trainFileList = ../../datasets/processed/rus.bio
 type = crf
-serializeTo = model3.crf.gz
-map = word=0,answer=2
+serializeTo = rus.crf.gz
+map = word=0,answer=1
 useClassFeature=true
 useWord=true
 useNGrams=true
