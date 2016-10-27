@@ -1,4 +1,4 @@
-trainFileList = ../../datasets/processed/rus.bio
+trainFileList = ../../datasets/processed/rustest.bio
 type = crf
 serializeTo = rus.crf.gz
 map = word=0,answer=1
