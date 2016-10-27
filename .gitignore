@@ -8,3 +8,6 @@
 .settings/**
 /notebooks/.ipynb_checkpoints
 /models/*
+.nfs*
+/datasets/raw/*
+/datasets/raw/devset/*
