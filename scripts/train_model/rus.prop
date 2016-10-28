@@ -1,6 +1,6 @@
-trainFileList = ../../datasets/processed/rustest.bio
+trainFileList = ../../datasets/processed/rus.bio
 type = crf
-serializeTo = rus.crf.gz
+serializeTo = rusnew.crf.gz
 map = word=0,answer=1
 useClassFeature=true
 useWord=true
